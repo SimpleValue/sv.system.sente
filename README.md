@@ -1,6 +1,7 @@
 # system.sente
 
-Components and helper functions to use sente in a sv/system-based
+Components and helper functions to use
+[Sente](https://github.com/ptaoussanis/sente) in a sv/system-based
 application.
 
 ## License
